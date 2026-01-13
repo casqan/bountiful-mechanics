@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "150b07f2b5f8383e92347e435fc1ce6d03cd87626fd88e921260ee429d05d004"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
@@ -433,10 +429,6 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
 metafile = true
-
-[[files]]
-file = "readme.md"
-hash = "465d2b65f370c0e61d562a86ec5d3698aa42eb45ab25586f768fb2aa58f787bb"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
