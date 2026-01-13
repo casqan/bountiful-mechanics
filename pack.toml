@@ -1,0 +1,13 @@
+name = "Bountiful Mechanics"
+author = "casqan"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "92f6a29be189d703ed6cf4e7ac3071df980ac47627018a5b67f36ebfa7df0cfd"
+
+[versions]
+forge = "47.4.13"
+minecraft = "1.20.1"
