@@ -26,6 +26,11 @@ hash = "50ef20cead6c51577f6698e6d2e63cdb11fb460d08a56517bdd99520a756a28a"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+hash = "0b7186d503e5e4301de9bb14d4fc8077de5785e705bb41eeec1e0bfec8402314"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
@@ -98,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cosmeticarmours.pw.toml"
+hash = "1e0c6eb58e49fcd9f62a0da4ca9fa490739a59fe573c924d2264a1600e617c29"
 metafile = true
 
 [[files]]
@@ -243,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
 metafile = true
 
 [[files]]
